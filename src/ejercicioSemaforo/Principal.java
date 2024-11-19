@@ -20,7 +20,7 @@ public class Principal {
     	System.out.println("Introduce el numero de hilos totales");
     	int cantidadDeHilos = entrada.nextInt();
     	
-	    Semaphore semaforo = new Semaphore(hilosSimultaneos); // Inicializamos el semáforo con 1 permiso
+	    Semaphore semaforo = new Semaphore(hilosSimultaneos); // Inicializamos el semáforo
     	
     	Thread [] listaHilos = new Thread[cantidadDeHilos];
         
