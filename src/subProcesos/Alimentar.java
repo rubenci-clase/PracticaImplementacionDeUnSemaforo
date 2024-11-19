@@ -1,4 +1,4 @@
-package ejer1;
+package subProcesos;
 
 public class Alimentar {
     public static void main(String[] args) {

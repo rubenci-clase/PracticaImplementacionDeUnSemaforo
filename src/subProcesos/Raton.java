@@ -1,4 +1,4 @@
-package ejer1;
+package subProcesos;
 
 public class Raton implements Runnable{
     private String nombre;
