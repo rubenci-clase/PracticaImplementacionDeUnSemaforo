@@ -1,2 +1,2 @@
-# PracticaImplementarDeUnSemaforo
+# PracticaImplementacionDeUnSemaforo
  
